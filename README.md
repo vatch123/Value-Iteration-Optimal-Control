@@ -1,4 +1,4 @@
-# UCSD ECE276B PR3 
+# Value Iteration Optimal Control
 
 ## Overview
 In this assignment, you will implement a controller for a car robot to track a trajectory.
